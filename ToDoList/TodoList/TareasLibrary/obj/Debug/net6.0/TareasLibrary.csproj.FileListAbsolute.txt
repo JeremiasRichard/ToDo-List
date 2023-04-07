@@ -1,0 +1,12 @@
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\bin\Debug\net6.0\TareasLibrary.deps.json
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\bin\Debug\net6.0\TareasLibrary.dll
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\bin\Debug\net6.0\TareasLibrary.pdb
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.csproj.AssemblyReference.cache
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.AssemblyInfoInputs.cache
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.AssemblyInfo.cs
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.dll
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\refint\TareasLibrary.dll
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\TareasLibrary.pdb
+C:\Users\Jeremias\Documents\PorMiCuenta\ToDoList\TodoList\TareasLibrary\obj\Debug\net6.0\ref\TareasLibrary.dll
