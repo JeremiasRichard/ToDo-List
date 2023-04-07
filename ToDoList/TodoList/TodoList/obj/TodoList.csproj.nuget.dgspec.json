@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeremias\\Documents\\PorMiCuenta\\ToDoList\\ToDoList\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\Jeremias\\Desktop\\ToDo-List\\ToDoList\\TodoList\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeremias\\Documents\\PorMiCuenta\\ToDoList\\ToDoList\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\Jeremias\\Desktop\\ToDo-List\\ToDoList\\TodoList\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeremias\\Documents\\PorMiCuenta\\ToDoList\\ToDoList\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\Jeremias\\Desktop\\ToDo-List\\ToDoList\\TodoList\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\Jeremias\\Documents\\PorMiCuenta\\ToDoList\\ToDoList\\TodoList\\TodoList.csproj",
+        "projectPath": "C:\\Users\\Jeremias\\Desktop\\ToDo-List\\ToDoList\\TodoList\\TodoList\\TodoList.csproj",
         "packagesPath": "C:\\Users\\Jeremias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeremias\\Documents\\PorMiCuenta\\ToDoList\\ToDoList\\TodoList\\obj\\",
+        "outputPath": "C:\\Users\\Jeremias\\Desktop\\ToDo-List\\ToDoList\\TodoList\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeremias\\AppData\\Roaming\\NuGet\\NuGet.Config",

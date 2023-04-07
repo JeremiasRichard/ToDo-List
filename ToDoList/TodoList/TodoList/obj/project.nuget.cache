@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pOXP1Z0ZWDBhirosViuGm46bq6T6Rsgpwt7dp9ETMpplZdQgN/n9RVxDc/EAGcEMNWk6qmvBl209bDykEyhw0g==",
+  "dgSpecHash": "1dH/7wDmOazTFSup3LrzkrFXgVEsIzcGjDB9X9FV/D7lDP3FgexczGFswD4Er2Bxz6DZiBEUhIOxWmYj/SpTew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeremias\\Documents\\PorMiCuenta\\ToDoList\\ToDoList\\TodoList\\TodoList.csproj",
+  "projectFilePath": "C:\\Users\\Jeremias\\Desktop\\ToDo-List\\ToDoList\\TodoList\\TodoList\\TodoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeremias\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Jeremias\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

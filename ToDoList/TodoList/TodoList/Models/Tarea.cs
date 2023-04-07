@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TareasLibrary.Models
+namespace TodoList.Models
 {
     public class Tarea
     {

@@ -1,6 +1,6 @@
-﻿using TareasLibrary.Models;
-using TodoList.Data;
+﻿using TodoList.Data;
 using TodoList.Interface;
+using TodoList.Models;
 
 namespace TodoList.Repository
 {
